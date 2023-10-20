@@ -1,0 +1,3 @@
+displayName = Bleach - YAAM
+author = Hoshiwara
+version = 0.1

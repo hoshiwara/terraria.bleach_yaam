@@ -4,3 +4,7 @@
 
 /.vs/VSWorkspaceState.json
 /.vs
+/mod_files/BleachYAAM.csproj
+/mod_files/.vs/BleachYAAM
+/mod_files/obj
+/mod_files/bin/Debug/net6.0
